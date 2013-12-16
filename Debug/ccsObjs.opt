@@ -1,0 +1,1 @@
+"./drivers/buttons.obj" "./utils/uartstdio.obj" "./startup_ccs.obj" "./gpio_jtag.obj" -l"C:/ti/TivaWare_C_Series-1.0/examples/boards/ek-tm4c123gxl/gpio_jtag/ccs/../../../../../driverlib/ccs/Debug/driverlib.lib" -l"libc.a" "../gpio_jtag_ccs.cmd" 
